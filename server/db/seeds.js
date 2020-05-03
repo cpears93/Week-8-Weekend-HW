@@ -21,6 +21,24 @@ db.movies.insertMany([
     release_date: 1993
     },
   {
+    title: "Akira",
+    genre: "Cyberpunk",
+    rating: 15,
+    release_date: 1993
+    },
+  {
+    title: "Diego Maradona",
+    genre: "Documentary",
+    rating: 12,
+    release_date: 2019
+    },
+  {
+    title: "Escape From New York",
+    genre: "Action",
+    rating: 15,
+    release_date: 1981
+    },
+  {
     title: "Scarface",
     genre: "Gangster",
     rating: 18,
